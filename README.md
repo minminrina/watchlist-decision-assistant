@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Watchlist Decision Assistant
 
 A movie decision assistant that helps users choose what to watch based on mood, available time, genres, and viewing behavior.
