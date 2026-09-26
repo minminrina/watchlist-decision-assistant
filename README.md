@@ -4,6 +4,11 @@ A movie decision assistant that helps users choose what to watch based on mood, 
 
 This project is not just a basic movie search app. It focuses on reducing decision fatigue by helping users quickly decide whether to save, skip, watch, or drop a movie.
 
+## Links
+
+- Live Demo: https://watchlist-decision-assistant.vercel.app
+- GitHub Repository: https://github.com/minminrina/watchlist-decision-assistant
+
 ## Features
 
 ### Personalized movie discovery
